@@ -1,0 +1,22 @@
+body {
+  width: 300px;
+}
+
+h1{
+  text-align: center;
+}
+h2{
+  background-color: #e2e2e2;
+  text-align: center;
+}
+h4{
+  text-align: center;
+}
+
+#img-planets{
+  text-align: center;
+}
+
+.info{
+  font-weight: bold;
+}
