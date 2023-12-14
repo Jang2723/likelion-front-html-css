@@ -1,0 +1,28 @@
+#container{
+    padding-top:30px;
+    width: 500px;
+    height: 150px;
+    font-weight: bold;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    border: 0.5px solid lightgrey;
+}
+
+#login-box {
+    margin-top: 20px;
+    padding-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 450px;
+    height: 40px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+#pp {
+    text-align: center;
+    margin-top: 10px;
+}
